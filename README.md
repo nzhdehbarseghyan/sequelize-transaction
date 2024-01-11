@@ -43,6 +43,3 @@ offering a robust solution for SQLite database interactions.
 - SQLite serves as the database provider, storing data in a local file within your repository titled `database.sqlite3`.
 
 - The server operates on port 3001.
-
-## Documentation
-For API documentation visit [here](https://documenter.getpostman.com/view/7882555/2s9YXnzK7V#intro)
